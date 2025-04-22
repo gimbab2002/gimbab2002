@@ -51,7 +51,9 @@
 
 ---
 
-![Snake animation](https://github.com/gimbab2002/gimbab2002/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/gimbab2002/gimbab2002/blob/output/ocean.gif" width="600"/>
+</div>
 
 ---
 

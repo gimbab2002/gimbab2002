@@ -47,12 +47,13 @@
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gimbab2002&theme=github_dark" />
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=gimbab2002&theme=github_dark&line=8a00e6&point=8a00e6&hide_border=true" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=gimbab2002&bg_color=ffffff&color=blue&line=8a00e6&point=8a00e6&area=true&area_color=blue&hide_border=true&theme=github_dark" width="800 />
+</div>
 
 
 <div align="center">
-  <img src="https://github.com/gimbab2002/gimbab2002/blob/output/github-snake-dark.svg" width="800"/>
+  <img src="https://github.com/gimbab2002/gimbab2002/blob/output/github-snake.svg" width="800"/>
 </div>
 
 > 🔹 지금까지 **다양한 저장소**에 기여하며, 작게나마 꾸준히 활동 중이에요!  

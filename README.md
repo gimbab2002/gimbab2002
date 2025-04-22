@@ -51,11 +51,7 @@
 
 ---
 
-### 🐱 잔디를 지키는 귀여운 고양이
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</div>
+![Snake animation](https://github.com/gimbab2002/gimbab2002/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

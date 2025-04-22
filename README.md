@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:1E90FF&height=200&section=header&text=Hi!%20I'm%20gimbab2002%20🥑&fontSize=40&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=200&section=header&text=Hi%20I'm%20gimbab2002%20🌟&fontSize=40&fontAlignY=40&fontColor=ffffff&animation=twinkling&textBg=true" />
 
   <p>🍙 컴공 새싹 개발자 · 충북대학교 · CaTs 멤버 🐾</p>
   <p>천천히, 꾸준히 성장 중입니다 ☁️</p>
@@ -46,15 +46,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gimbab2002&theme=github_dark" />
 
 
-> 🔹 지금까지 **다양한 저장소**에 기여하며, 작게나마 꾸준히 활동 중이에요!  
-> 🔸 잔디는 느리지만 채워가는 중 🌿
-
----
 
 <div align="center">
-  <img src="https://github.com/gimbab2002/gimbab2002/blob/output/ocean.gif" width="600"/>
+  <img src="https://github.com/gimbab2002/gimbab2002/blob/output/github-snake-dark.svg" width="800"/>
 </div>
 
+> 🔹 지금까지 **다양한 저장소**에 기여하며, 작게나마 꾸준히 활동 중이에요!  
+> 🔸 잔디는 느리지만 채워가는 중 🌿
 ---
 
 ### 🔗 Contact & Links

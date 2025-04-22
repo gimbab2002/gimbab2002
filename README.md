@@ -32,7 +32,7 @@
 
 - ✨ 파이썬, C++을 중심으로 기본기 다지는 중
 - 🌱 백엔드 / 안드로이드 / AI 중 관심 분야 탐색 중
-- 🧩 프로젝트보다는 공부 + 기록 위주 (Notion 활용 중)
+- 🧩 현재 공부 + 기록 위주 (Notion 활용 중)
 - 🐾 충북대 컴퓨터공학과 동아리 [CaTs](https://github.com/CaTs-CBNU) 소속
 
 ---
@@ -40,10 +40,11 @@
 ### 🧩 Stats & Trophies
 
 <p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimbab2002" height="300" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimbab2002" height="200" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gimbab2002&theme=flat&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gimbab2002&theme=github_dark" />
+
 
 > 🔹 지금까지 **다양한 저장소**에 기여하며, 작게나마 꾸준히 활동 중이에요!  
 > 🔸 잔디는 느리지만 채워가는 중 🌿
@@ -61,8 +62,8 @@
 ### 🔗 Contact & Links
 
 - 🐾 [CaTs GitHub](https://github.com/CaTs-CBNU)
-- 💻 백준: [gimbab2002](https://www.acmicpc.net/user/gimbab2002)
-- 📬 Email: **gimbab2002 [at] gmail.com**
+- 💻 백준: [gimbab2002](https://www.acmicpc.net/user/kimbab2002)
+- 📬 Email: **gimbab2002@gmail.com**
 
 ---
 

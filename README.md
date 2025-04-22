@@ -8,12 +8,15 @@
   <a href="https://github.com/CaTs-CBNU" target="_blank">
     <img src="https://img.shields.io/badge/CaTs%20CBNU-학술동아리-blue?style=flat-square&logo=github" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=gimbab2002&color=brightgreen" alt="profile views" />
+  
+
 
   <br/><br/>
-
+  
   <img src="https://github-readme-stats.vercel.app/api?username=gimbab2002&show_icons=true&theme=blueberry&hide_title=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimbab2002&theme=blueberry" width="47%" />
-
+  
 </div>
 
 ---
@@ -44,6 +47,7 @@
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gimbab2002&theme=github_dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=gimbab2002&theme=github_dark&line=8a00e6&point=8a00e6&hide_border=true" />
 
 
 
